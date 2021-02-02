@@ -1,0 +1,9 @@
+https://socket.io
+https://socket.io/docs/client-api/
+
+https://getbootstrap.com/docs/4.3/examples/
+https://getbootstrap.com/docs/4.3/examples/pricing/ #пример шаблона
+
+https://developers.google.com/speed/libraries # The copied jquery in the libraries
+
+https://www.bootstrapcdn.com # Copied complete CSS
